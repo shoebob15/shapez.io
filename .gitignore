@@ -1,0 +1,10 @@
+node_modules
+electron
+electron_gog
+electron_wegame
+res_built
+res_raw
+src
+translations
+shapez.code-workspace
+mod_examples
